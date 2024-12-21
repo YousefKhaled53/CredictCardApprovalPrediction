@@ -14,5 +14,5 @@ At present, with the development of machine learning algorithms. More predictive
 Task
 Build a machine learning model to predict if an applicant is 'good' or 'bad' client, different from other tasks, the definition of 'good' or 'bad' is not given. You should use some techique, such as vintage analysis to construct you label. Also, unbalance data problem is a big problem in this task.
 
-You can view the project in the main file notebook
-Explanation is shown before each step
+# You can view the project in the main file notebook, Explanation is shown before each step
+To download the dataset : https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/data
